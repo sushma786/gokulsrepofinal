@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Newe App</title>
+</head>
+<body style="background-color: azure;">
+    <div style="display: flex;">
+        <div style="height: auto;width: 300px; background-color: #190bdb;margin-left: 450px;color: white;">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores reiciendis quia totam illo minus placeat cupiditate asperiores delectus molestias, amet, dolorum ex sit doloremque necessitatibus. Aspernatur natus dignissimos laborum deserunt ipsa quis, autem maiores nesciunt obcaecati asperiores quae totam aut perferendis modi exercitationem consequatur molestiae enim ipsum. Incidunt, esse delectus.</p></div>
+        <div style="height: auto;width: 300px; background-color: rgb(253, 218, 18);margin-left: 50px;">
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ratione maxime placeat fugiat eos dolorum eius nemo, nisi ea eaque perspiciatis repudiandae consectetur, voluptas saepe, possimus sequi veritatis enim perferendis suscipit voluptate corporis expedita ad laborum explicabo? Magni similique consequuntur aut tempora, voluptatibus dolores magnam iste maxime asperiores molestiae. Dicta, nam!</p></div>
+    </div>
+    <hr width="100%" color="red" >
+    <div style="display: flex;">
+        <div style="height: auto;width: 300px; background-color: #190bdb;margin-left: 450px;color: white;">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores reiciendis quia totam illo minus placeat cupiditate asperiores delectus molestias, amet, dolorum ex sit doloremque necessitatibus. Aspernatur natus dignissimos laborum deserunt ipsa quis, autem maiores nesciunt obcaecati asperiores quae totam aut perferendis modi exercitationem consequatur molestiae enim ipsum. Incidunt, esse delectus.</p></div>
+        <div style="height: auto;width: 300px; background-color: rgb(253, 218, 18);margin-left: 50px;">
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ratione maxime placeat fugiat eos dolorum eius nemo, nisi ea eaque perspiciatis repudiandae consectetur, voluptas saepe, possimus sequi veritatis enim perferendis suscipit voluptate corporis expedita ad laborum explicabo? Magni similique consequuntur aut tempora, voluptatibus dolores magnam iste maxime asperiores molestiae. Dicta, nam!</p></div>
+    </div>
+    <hr width ="50%" color="blue" size="3px">
+    <div>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam beatae sunt consectetur aliquam quaerat amet nulla ipsa maiores. Sunt dolores, culpa saepe numquam repellendus doloribus animi commodi ut totam in aperiam nam, recusandae quidem optio veritatis voluptatum est! Tempore expedita cum illo quae eveniet, rem voluptatibus nemo exercitationem est ratione amet. Sit recusandae, consequatur aliquid odit officia eius a corporis cumque voluptatem dolorem sed doloribus doloremque odio nisi ducimus? Tempora nemo minus, maiores est unde perferendis iure sapiente laudantium reiciendis? Quisquam quasi tempore perferendis itaque ab enim deleniti! Accusamus.
+        </p>
+        <h1>Everybody reached till here??</h1>
+        <h1>I hope everybody completed</h1>
+    </div>
+</body>
+</html>
+
+
